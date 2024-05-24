@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad Akbar</h1>
-<h3 align="center">A passionate MERN Developer and Competitive Programmer pursuing bachelors form NSUT,New Delhi.</h3>
+<h3 align="center">A passionate MERN Developer and Competitive Programmer pursuing bachelors  form NSUT,New Delhi.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadakbar1&label=Profile%20views&color=0e75b6&style=flat" alt="saadakbar1" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://blog-app-ofa9.onrender.com/](https://blog-app-ofa9.onrender.com/)
 
-- 💬 Ask me about **DSA , MERN , COMPETITIVE PROGRAMMING**
+- 💬 Ask me about **DSA , WEB DEVELOPMENT , MACHINE LEARNING , COMPETITIVE PROGRAMMING**
 
 - 📫 How to reach me **saadakbar7860@gmail.com**
 
