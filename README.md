@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saad Akbar</h1>
 <h3 align="center">A passionate MERN Developer and Competitive Programmer pursuing bachelors  form NSUT,New Delhi.</h3>
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Web+Developer+by+Day+;Competitive+Programmer+by+Night)](https://git.io/typing-svg)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadakbar1&label=Profile%20views&color=0e75b6&style=flat" alt="saadakbar1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/saad_akbar_10" target="blank"><img src="https://img.shields.io/twitter/follow/saad_akbar_10?logo=twitter&style=for-the-badge" alt="saad_akbar_10" /></a> </p>
@@ -32,4 +36,6 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"  width="40" height="40" />
           </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadakbar1&show_icons=true&locale=en&layout=compact" alt="saadakbar1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadakbar1&show_icons=true&locale=en&layout=compact" alt="saadakbar1" /></p> 
+
+![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
