@@ -11,10 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://saadakbar1.github.io/PhotographhyWebsite/](https://saadakbar1.github.io/PhotographhyWebsite/)
 
-- 📝 I regularly write articles on [https://blog-app-ofa9.onrender.com/](https://blog-app-ofa9.onrender.com/)
-
-- 💬 Ask me about **DSA , WEB DEVELOPMENT , MACHINE LEARNING , COMPETITIVE PROGRAMMING**
-
 - 📫 How to reach me **saadakbar7860@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
