@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saad Akbar</h1>
-<h3 align="center">A passionate MERN Developer and Competitive Programmer pursuing bachelors  form NSUT,New Delhi.</h3>
+<h3 align="center">A passionate MERN Developer , Competitive Programmer and final year student at NSUT,New Delhi.</h3>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=2500&pause=500&width=550&lines=Web+Developer+by+Day+;Competitive+Programmer+by+Night)](https://git.io/typing-svg)
